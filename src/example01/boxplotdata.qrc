@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>boxwhisk_data.txt</file>
+        <file>acme_data.txt</file>
+    </qresource>
+</RCC>
